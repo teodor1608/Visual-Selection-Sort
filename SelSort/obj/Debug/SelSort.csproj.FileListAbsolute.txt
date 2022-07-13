@@ -1,0 +1,10 @@
+D:\[Projects]\UNI\SAA KP\SelSort\SelSort\bin\Debug\SelSort.exe.config
+D:\[Projects]\UNI\SAA KP\SelSort\SelSort\bin\Debug\SelSort.exe
+D:\[Projects]\UNI\SAA KP\SelSort\SelSort\bin\Debug\SelSort.pdb
+D:\[Projects]\UNI\SAA KP\SelSort\SelSort\obj\Debug\SelSort.csproj.AssemblyReference.cache
+D:\[Projects]\UNI\SAA KP\SelSort\SelSort\obj\Debug\SelSort.Form1.resources
+D:\[Projects]\UNI\SAA KP\SelSort\SelSort\obj\Debug\SelSort.Properties.Resources.resources
+D:\[Projects]\UNI\SAA KP\SelSort\SelSort\obj\Debug\SelSort.csproj.GenerateResource.cache
+D:\[Projects]\UNI\SAA KP\SelSort\SelSort\obj\Debug\SelSort.csproj.CoreCompileInputs.cache
+D:\[Projects]\UNI\SAA KP\SelSort\SelSort\obj\Debug\SelSort.exe
+D:\[Projects]\UNI\SAA KP\SelSort\SelSort\obj\Debug\SelSort.pdb
